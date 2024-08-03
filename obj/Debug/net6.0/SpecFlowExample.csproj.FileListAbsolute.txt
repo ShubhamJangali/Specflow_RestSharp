@@ -111,3 +111,4 @@ C:\Users\HP\source\repos\SpecFlowExample\SpecFlowExample\obj\Debug\net6.0\SpecFl
 C:\Users\HP\source\repos\SpecFlowExample\SpecFlowExample\obj\Debug\net6.0\SpecFlowExample.genruntimeconfig.cache
 C:\Users\HP\source\repos\SpecFlowExample\SpecFlowExample\obj\Debug\net6.0\ref\SpecFlowExample.dll
 C:\Users\HP\source\repos\SpecFlowExample\SpecFlowExample\bin\Debug\net6.0\RestSharp.dll
+C:\Users\HP\source\repos\SpecFlowExample\SpecFlowExample\obj\Debug\net6.0\SpecFlowExample.sourcelink.json
