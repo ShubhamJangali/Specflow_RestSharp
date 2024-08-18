@@ -112,3 +112,9 @@ C:\Users\HP\source\repos\SpecFlowExample\SpecFlowExample\obj\Debug\net6.0\SpecFl
 C:\Users\HP\source\repos\SpecFlowExample\SpecFlowExample\obj\Debug\net6.0\ref\SpecFlowExample.dll
 C:\Users\HP\source\repos\SpecFlowExample\SpecFlowExample\bin\Debug\net6.0\RestSharp.dll
 C:\Users\HP\source\repos\SpecFlowExample\SpecFlowExample\obj\Debug\net6.0\SpecFlowExample.sourcelink.json
+C:\Users\HP\source\repos\SpecFlowExample\SpecFlowExample\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\HP\source\repos\SpecFlowExample\SpecFlowExample\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\HP\source\repos\SpecFlowExample\SpecFlowExample\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\HP\source\repos\SpecFlowExample\SpecFlowExample\bin\Debug\net6.0\WebDriver.dll
+C:\Users\HP\source\repos\SpecFlowExample\SpecFlowExample\bin\Debug\net6.0\Ionic.Zip.dll
+C:\Users\HP\source\repos\SpecFlowExample\SpecFlowExample\bin\Debug\net6.0\WebDriver.Support.dll
