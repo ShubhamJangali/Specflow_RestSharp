@@ -50,6 +50,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.0.0, )"
@@ -69,10 +73,6 @@
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[4.23.0, )"
-            },
-            "Selenium.WebDriver.PhantomJS.Xplatform": {
-              "target": "Package",
-              "version": "[2.45.0.1, )"
             },
             "SpecFlow.NUnit": {
               "target": "Package",
